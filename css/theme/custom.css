@@ -1,0 +1,24 @@
+* {
+  color: #294e80;
+}
+.reveal sub {
+  vertical-align: sub;
+  font-size: smaller;
+}
+.reveal .footnote {
+  position: fixed;
+  bottom: 1em;
+  right: 1em;
+}
+.reveal .footnote:before {
+  content: '*';
+  color: #294e80;
+}
+.reveal .avatar {
+  border-radius: 50%;
+  border: 2px solid #294e80;
+  max-width: 200px;
+}
+.reveal section img {
+  border: none;
+}
