@@ -22,3 +22,9 @@
 .reveal section img {
   border: none;
 }
+.reveal section img.half{
+  max-width: 45%;
+}
+section[data-background-color="#b5533c"] > p{
+  color: white;
+}
