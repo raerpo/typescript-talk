@@ -25,6 +25,13 @@
 .reveal section img.half{
   max-width: 45%;
 }
+.reveal .half-container {
+  display: flex;
+}
+.reveal .half-container .half-content {
+  flex: 1;
+  padding: 1em;
+}
 section[data-background-color="#b5533c"] > p{
   color: white;
 }
