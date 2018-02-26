@@ -6,8 +6,10 @@ Slides para el keynote de noders Chile.
 ```bash
 npm install
 npm run start
-
 ```
+
+### Live version
+https://revealjs-rsnoaqtlel.now.sh/
 
 ### Licencia
 MIT
